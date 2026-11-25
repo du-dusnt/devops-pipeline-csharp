@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ParImpar/ParImpar.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ParImpar.tests/ParImpar.tests.csproj" />
+  </Folder>
+</Solution>
