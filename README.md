@@ -14,7 +14,7 @@ dotnet run --project src/ParImpar
 
 ## Roadmap
 - [x] Aplicação em C# (console)
-- [ ] Testes com xUnit
+- [X] Testes com xUnit
 - [ ] Dockerfile
 - [ ] Workflow no GitHub Actions (build + testes)
 - [ ] Publicação da imagem no GitHub Container Registry
